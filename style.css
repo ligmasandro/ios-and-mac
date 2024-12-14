@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-1 {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.box-2 {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.ohio-img {
+  background-image: url(images/bg-header-desktop.png);
+}
+.mini-box1 {
+  display: flex;
+  gap: 5px;
+}
+.btn-ios {
+  background-color: hsl(171, 66%, 44%);
+  border-radius: 10px;
+  color: white;
+}
+.btn-mac {
+  background-color: hsl(233, 100%, 69%);
+  border-radius: 10px;
+  color: white;
+}
